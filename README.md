@@ -1,4 +1,4 @@
-# CodeCoreClass7Challenge
+# CodeCore Class 7 Challenge
 
 This website or application was given to the student of CodeCore 2017 March as a challenge and here is the qeustion
 
