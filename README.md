@@ -17,10 +17,7 @@ $(document).ready(function() {
     $(".button-1").click(function() {
         let name = $('.textArea').val()
         let names = name.split(",");
-        $('.button-1').click(function() {
-            $("h1").html(`The Winner is ${ randomNum(names)}.`)
-        })
-
+         $("h1").html(`The Winner is ${ randomNum(names)}.`)
     });
 });
 
