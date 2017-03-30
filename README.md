@@ -11,7 +11,7 @@ Here is my page that i built https://mohammedbm.github.io/CodeCoreClass7Challeng
 
 Here is the javasciprt code i used
 
-```
+``` javascript
 
 $(document).ready(function() {
     $(".button-1").click(function() {
